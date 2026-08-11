@@ -43,6 +43,8 @@ Step 3. Configure the network settings on your Virtualbox (create NATNetwork in 
 
 Step 4. Download & import Kali Linux Virtual Machine in your Virtualbox: https://kali.org/get-kali
 <img width="1218" height="677" alt="image" src="https://github.com/user-attachments/assets/328e998f-fd15-4dbd-878f-bd107e9c1ee7" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/405bc864-b593-436d-ae38-b1ee27602fac" />
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2ebd81d5-5db0-4e05-9852-5b7616146caa" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f3646487-c39d-4268-862c-3543a432a517" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/79b070e1-8a04-4141-a8db-69d2ec2370da" />
