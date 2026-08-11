@@ -45,9 +45,11 @@ Step 2. Download & install Virtualbox on your laptop/PC: https://virtualbox.org/
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1cadcdd1-4b10-4ebf-8e72-4348ed1d20c6" />
 
+
 Step 3. Configure the network settings on your Virtualbox (create NATNetwork in 10.0.0.0/24)
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/28a51483-76b7-4a0b-824a-195d5d8b08e9" />
+
 
 Step 4. Download & import Kali Linux Virtual Machine in your Virtualbox: https://kali.org/get-kali
 
@@ -60,6 +62,7 @@ Step 4. Download & import Kali Linux Virtual Machine in your Virtualbox: https:/
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f3646487-c39d-4268-862c-3543a432a517" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9217eef8-6b35-4477-af06-10b93aeabca9" />
 
+
 Step 5. Setup the IP configuration of Kali Linux
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/611ed5f6-8b44-461d-8d4d-e0623f4494ef" />
@@ -69,6 +72,7 @@ Step 5. Setup the IP configuration of Kali Linux
 UPDATED:
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b5962ef5-5abd-41dd-a093-42d217dc7af0" />
 <img width="1599" height="720" alt="image" src="https://github.com/user-attachments/assets/b0956521-015c-4180-8116-5069b93ec25a" />
+
 
 Step 6. Take snapshot of the VM
 
@@ -83,13 +87,13 @@ The most important concepts I learned include:
 1. NAT vs NAT Network
    A standard NAT configuration and a NAT Network serve different purposes.
 
-"A NAT Network allows multiple VMs connected to the same virtual network to communicate with one another while providing network address translation for external connectivity."
+  "A NAT Network allows multiple VMs connected to the same virtual network to communicate with one another while providing network          address translation for external connectivity."
 
-This makes it useful for building a multi-machine cybersecurity laboratory.
+  This makes it useful for building a multi-machine cybersecurity laboratory.
 
 2. Virtual Machine Networking
    
-  I learned how VirtualBox virtual network adapters connect virtual machines to different types of networks and how network configuration affects communication between machines.
+  I learned how VirtualBox virtual network adapters connect virtual machines to different types of networks and how network configuration   affects communication between machines.
 
 3. Static IP Configuration
    
@@ -99,11 +103,11 @@ This makes it useful for building a multi-machine cybersecurity laboratory.
 
    I learned that a clean snapshot should be created before performing risky or experimental activities.
 
-This provides a known-good recovery point for future cybersecurity exercises.
+  This provides a known-good recovery point for future cybersecurity exercises.
 
 5. Documentation
    
-   I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional cybersecurity project.
+   I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional           cybersecurity project.
 
 🔐 Security & Ethical Use
 This laboratory is intended strictly for education purposes only.
