@@ -116,6 +116,8 @@ sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
 The network connection was then restarted/rebooted and connectivity was tested again.
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/a38c2894-adad-4fef-b10f-f3273aa49675" />
 
+<img width="794" height="550" alt="image" src="https://github.com/user-attachments/assets/308b135b-8074-41c0-864f-0a646ceb64d7" />
+
 
 
 What I Learned
