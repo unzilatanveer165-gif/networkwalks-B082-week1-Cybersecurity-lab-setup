@@ -47,9 +47,17 @@ Step 4. Download & import Kali Linux Virtual Machine in your Virtualbox: https:/
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2ebd81d5-5db0-4e05-9852-5b7616146caa" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f3646487-c39d-4268-862c-3543a432a517" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/79b070e1-8a04-4141-a8db-69d2ec2370da" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9217eef8-6b35-4477-af06-10b93aeabca9" />
 
 Step 5. Setup the IP configuration of Kali Linux
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/66ac7e20-456d-42d1-b6aa-2b670afb46d1" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/611ed5f6-8b44-461d-8d4d-e0623f4494ef" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/02232628-f641-471b-9f15-15e35f8db831" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/83b0be28-8a76-437d-91d2-27d1f7135a36" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/7b02ef1a-fc3e-4ffb-b198-71f422c3168c" />
+UPDATED:
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b5962ef5-5abd-41dd-a093-42d217dc7af0" />
+<img width="1599" height="720" alt="image" src="https://github.com/user-attachments/assets/b0956521-015c-4180-8116-5069b93ec25a" />
 
 Step 6. Take snapshot of the VM
+<img width="1358" height="710" alt="image" src="https://github.com/user-attachments/assets/c8863191-d3af-4433-a28d-a2160849a171" />
