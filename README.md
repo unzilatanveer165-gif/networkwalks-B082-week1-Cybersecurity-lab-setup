@@ -79,6 +79,17 @@ Step 6. Take snapshot of the VM
 <img width="1358" height="710" alt="image" src="https://github.com/user-attachments/assets/c8863191-d3af-4433-a28d-a2160849a171" />
 
 
+Problem I faced: Internet Connectivity After Static IP Configuration
+
+After manually configuring the IPv4 settings, Internet connectivity may fail depending on the Kali/NetworkManager configuration.
+
+One workaround used during this lab was:
+
+sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
+The network connection was then restarted/rebooted and connectivity was tested again.
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/a38c2894-adad-4fef-b10f-f3273aa49675" />
+
+
 
 What I Learned
 
