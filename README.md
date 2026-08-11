@@ -79,6 +79,7 @@ Step 6. Take snapshot of the VM
 <img width="1358" height="710" alt="image" src="https://github.com/user-attachments/assets/c8863191-d3af-4433-a28d-a2160849a171" />
 
 
+
 What I Learned
 
 Through this project, I learned how to create and configure a virtual environment for cybersecurity practice.
