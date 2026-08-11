@@ -121,8 +121,10 @@ The most important concepts I learned include:
 5. Documentation
    
    I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional           cybersecurity project.
+   
 
 🔐 Security & Ethical Use
+
 This laboratory is intended strictly for education purposes only.
 
 🔗 Tools & Resources
