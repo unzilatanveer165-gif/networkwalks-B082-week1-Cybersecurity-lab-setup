@@ -35,6 +35,7 @@ Security-tool experimentation
 
 Lab Setup Procedure
 Step 1. Download & install 7-zip: https://7-zip.org/download.html
+
 Step 2. Download & install Virtualbox on your laptop/PC: https://virtualbox.org/wiki/Downloads
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1cadcdd1-4b10-4ebf-8e72-4348ed1d20c6" />
 
@@ -46,6 +47,8 @@ Step 4. Download & import Kali Linux Virtual Machine in your Virtualbox: https:/
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/405bc864-b593-436d-ae38-b1ee27602fac" />
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2ebd81d5-5db0-4e05-9852-5b7616146caa" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/75036c6a-4513-42b9-8e56-62d38c6a74e0" />
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f3646487-c39d-4268-862c-3543a432a517" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9217eef8-6b35-4477-af06-10b93aeabca9" />
 
